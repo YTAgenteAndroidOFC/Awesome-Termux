@@ -53,7 +53,7 @@ pkg install git curl file -y
 ### 02 — Download Awesome Termux
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Awesome-Termux.git
+git clone https://github.com/YTAgenteAndroidOFC/Awesome-Termux.git
 cd Awesome-Termux
 ```
 
